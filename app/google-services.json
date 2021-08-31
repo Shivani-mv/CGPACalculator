@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952542214154",
+    "project_id": "cgpa-calculator-ebc54",
+    "storage_bucket": "cgpa-calculator-ebc54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952542214154:android:ec024c68a60e34692d47f3",
+        "android_client_info": {
+          "package_name": "com.example.cgpacalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952542214154-5ff4r2f9v95a3i538sls9c7poocdq2fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcEzirFmoWT6F1iqBa3TjC822Vc3TLwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952542214154-5ff4r2f9v95a3i538sls9c7poocdq2fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
